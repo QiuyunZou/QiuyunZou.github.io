@@ -12,9 +12,6 @@ main:
   - title: "新闻"
     url: "/#-新闻"
 
-  - title: "Educations"
-    url: "/#-educations"
-
   - title: " 科研成果"
     url: "/#-invited- 科研成果"
 
