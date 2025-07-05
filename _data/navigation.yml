@@ -13,10 +13,10 @@ main:
     url: "/#-news"
 
   - title: "科研项目"
-    url: "/#-projections"
+    url: "/#-projects"
 
   - title: "科研成果"
-    url: "/#-projections"
+    url: "/#-publications"
 
   - title: "荣誉与奖项"
     url: "/#-honors-and-awards"
