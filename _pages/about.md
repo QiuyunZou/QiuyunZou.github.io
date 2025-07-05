@@ -38,7 +38,7 @@ redirect_from:
 - *2024.08*: &nbsp;🎉🎉 江西省高层次人才. 
 - *2024.08*: &nbsp;🎉🎉 获批国家自然科学基金青年基金项. 
 
-# 📝 科研成果 
+# 📝 Publications 
 - **Qiuyun Zou**, Haochuan Zhang. High-dimensional MMV problem: mutual information and message passing solution, ***IEEE TSP***, 2023.
 - Songbin Liu, Haochuan Zhang, **Qiuyun Zou**. Decentralized channel estimation for the uplink of grant-Free massive machine-type communications, ***IEEE TCOM***, 2022.
 - Donghong Cai, Pingzhi Fan, **Qiuyun Zou**, Yanqing Xu, Zhiguo Ding, Zhiquan Liu. Active device detection and performance analysis of massive non-orthogonal transmissions in cellular internet of things, ***Science China Information Sciences***, 2022.
