@@ -4,16 +4,16 @@ main:
     url: "/#about-me"
 
   - title: "招生信息"
-    url: "/#-招生信息"
+    url: "/#-admission-information"
 
   - title: "教育经历"
-    url: "/#-教育经历"
+    url: "/#-educations"
 
   - title: "新闻"
-    url: "/#-新闻"
+    url: "/#-news"
 
   - title: "科研成果"
     url: "/#-publications"
 
   - title: "荣誉与奖项"
-    url: "/#-荣誉与奖项"
+    url: "/#-honors-and-awards"
