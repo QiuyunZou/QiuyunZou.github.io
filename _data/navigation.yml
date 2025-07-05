@@ -13,7 +13,7 @@ main:
     url: "/#-新闻"
 
   - title: "科研成果"
-    url: "/#-科研成果"
+    url: "/#-publications"
 
   - title: "荣誉与奖项"
     url: "/#-荣誉与奖项"
