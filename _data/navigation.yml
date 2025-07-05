@@ -12,6 +12,9 @@ main:
   - title: "新闻"
     url: "/#-news"
 
+  - title: "科研项目"
+    url: "/#-projections"
+
   - title: "科研成果"
     url: "/#-publications"
 
