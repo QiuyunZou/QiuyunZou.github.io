@@ -17,42 +17,31 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+邹秋云，江西新干人，工学博士。于2023年获北京邮电大学信息与通信工程博士学位，2023届北京邮电大学优秀毕业生，中国科学院大学访问学者，江西省高层次人才，江西财经大学硕士生导师。本人长期从事消息传递算法与副本方法在统计信号处理、无线通信、信息与编码理论等基础理论研究，是国际上较早开展多层消息传递算法研究的学者之一，首个提出多测量值矢量系统输入输出互信息解析表达式的学者。在信号处理领域顶刊IEEE TSP、无线通信领域顶刊IEEE TCOM等学术杂志发表论文近10篇，谷歌学术论文引用量240余次。目前是IEEE TSP、IEEE TCOM、IEEE SPL、ICC等高水平期刊或会议受邀审稿人。主持国家自然科学基金1项，主持完成北京邮电大学博士创新基金1项，参与科技部国家重大科技专项1项。
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+# 📖 教育经历
+- *2019.09 - 2023.06,  北京邮电大学  （导师：杨鸿文教授）
+- *2016.09 - 2019.06,  广东工业大学  （导师：张浩川教授）
+- *2012.09 - 2016.06,  汕头大学      （导师：范立生教授）
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.08*: &nbsp;🎉🎉 江西省高层次人才. 
+- *2024.08*: &nbsp;🎉🎉 获批国家自然科学基金青年基金项. 
 
-# 📝 Publications 
+# 📝 科研成果 
+- **Qiuyun Zou**, Haochuan Zhang. High-dimensional MMV problem: mutual information and message passing solution, **IEEE TSP**, 2023.
+- **Qiuyun Zou**, Haochuan Zhang, Hongwen Yang. Multi-layer bilinear generalized approximate message passing, **IEEE TSP**, 2021.
+- **Qiuyun Zou**, Haochuang Zhang*, Hongwen Yang. Expectation maximization aided hybrid generalized expectation consistent for sparse signal reconstruction, **IEEE SPL**, 2021.
+- **Qiuyun Zou**, Haochuan Zhang, Donghong Cai*, Hongwen Yang. A low-complexity joint user activity, channel and data estimation for grant-free massive MIMO systems, IEEE SPL, 2020.
+- **Qiuyun Zou**, Haochuan Zhang*, Donghong Cai, Hongwen Yang. Message passing based joint channel and user activity estimation for uplink grant-Free massive MIMO systems with low-precision ADCs,**IEEE SPL**, 2020.
+- **Qiuyun Zou**，Haochuan Zhang*, Chao-Kai Wen, Shi Jin, Rong Yu. Concise derivation for generalized approximate message passing using expectation propagation, **IEEE SPL**, 2018.
+- Songbin Liu, Haochuan Zhang*, **Qiuyun Zou**. Decentralized channel estimation for the uplink of grant-Free massive machine-type communications, **IEEE TCOM**, 2022.
+- Donghong Cai, Pingzhi Fan, **Qiuyun Zou**, Yanqing Xu, Zhiguo Ding, Zhiquan Liu. Active device detection and performance analysis of massive non-orthogonal transmissions in cellular internet of things, **Science China Information Sciences**, 2022.
+- Pei Yang, **Qiuyun Zou**, Hongwen Yang. Message passing based calculation of MI and MMSE matrix for massive MIMO systems with finite-alphabet inputs, **IEEE CL**, 2021.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# 🎖 荣誉与奖项
+- *2024.06* 指导本科生李雪获江西财经大学优秀本科毕业设计. 
+- *2024.08* 江西省省级高层次人才.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
