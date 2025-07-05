@@ -52,7 +52,7 @@ redirect_from:
 - **Qiuyun Zou** et al.  Estimation for high-dimensional multi-Layer generalized linear model–part II: the ML-GAMP estimator[J]. arXiv preprint arXiv:2007.09827, 2020.
 - **Qiuyun Zou**，Haochuan Zhang, Chao-Kai Wen, Shi Jin, Rong Yu. Concise derivation for generalized approximate message passing using expectation propagation, ***IEEE SPL***, 2018.
 
-# 🎖 荣誉与奖项
+# 🎖 荣誉与奖项|Honors and Awards
 - *2024.06* 指导本科生李雪获江西财经大学优秀本科毕业设计. 
 - *2024.08* 江西省省级高层次人才.
 
