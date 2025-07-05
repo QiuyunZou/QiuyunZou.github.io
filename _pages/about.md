@@ -39,18 +39,18 @@ redirect_from:
 - *2024.08*: &nbsp;🎉🎉 获批国家自然科学基金青年基金项. 
 
 # 📝 科研成果 
-- **Qiuyun Zou**, Haochuan Zhang. High-dimensional MMV problem: mutual information and message passing solution, **IEEE TSP**, 2023.
-- Songbin Liu, Haochuan Zhang*, **Qiuyun Zou**. Decentralized channel estimation for the uplink of grant-Free massive machine-type communications, **IEEE TCOM**, 2022.
-- Donghong Cai, Pingzhi Fan, **Qiuyun Zou**, Yanqing Xu, Zhiguo Ding, Zhiquan Liu. Active device detection and performance analysis of massive non-orthogonal transmissions in cellular internet of things, **Science China Information Sciences**, 2022.
-- Pei Yang, **Qiuyun Zou**, Hongwen Yang. Message passing based calculation of MI and MMSE matrix for massive MIMO systems with finite-alphabet inputs, **IEEE CL**, 2021.
+- **Qiuyun Zou**, Haochuan Zhang. High-dimensional MMV problem: mutual information and message passing solution, ***IEEE TSP***, 2023.
+- Songbin Liu, Haochuan Zhang*, **Qiuyun Zou**. Decentralized channel estimation for the uplink of grant-Free massive machine-type communications, ***IEEE TCOM***, 2022.
+- Donghong Cai, Pingzhi Fan, **Qiuyun Zou**, Yanqing Xu, Zhiguo Ding, Zhiquan Liu. Active device detection and performance analysis of massive non-orthogonal transmissions in cellular internet of things, ***Science China Information Sciences***, 2022.
+- Pei Yang, **Qiuyun Zou**, Hongwen Yang. Message passing based calculation of MI and MMSE matrix for massive MIMO systems with finite-alphabet inputs, ***IEEE CL***, 2021.
 - **Qiuyun Zou** et al. A concise tutorial on approximate message passing. arXiv preprint arXiv:2201.07487, 2022.
-- **Qiuyun Zou**, Haochuan Zhang, Hongwen Yang. Multi-layer bilinear generalized approximate message passing, **IEEE TSP**, 2021.
+- **Qiuyun Zou**, Haochuan Zhang, Hongwen Yang. Multi-layer bilinear generalized approximate message passing, ***IEEE TSP***, 2021.
 - **Qiuyun Zou**, Haochuang Zhang*, Hongwen Yang. Expectation maximization aided hybrid generalized expectation consistent for sparse signal reconstruction, **IEEE SPL**, 2021.
 - **Qiuyun Zou**, Haochuan Zhang, Donghong Cai*, Hongwen Yang. A low-complexity joint user activity, channel and data estimation for grant-free massive MIMO systems, **IEEE SPL**, 2020.
-- **Qiuyun Zou**, Haochuan Zhang*, Donghong Cai, Hongwen Yang. Message passing based joint channel and user activity estimation for uplink grant-Free massive MIMO systems with low-precision ADCs, **IEEE SPL**, 2020.
+- **Qiuyun Zou**, Haochuan Zhang*, Donghong Cai, Hongwen Yang. Message passing based joint channel and user activity estimation for uplink grant-Free massive MIMO systems with low-precision ADCs, ***IEEE SPL***, 2020.
 - **Qiuyun Zou** et al. Estimation for high-Dimensional multi-layer generalized linear model–Part I: the exact MMSE estimator. arXiv preprint arXiv:2007.09826, 2020.
 - **Qiuyun Zou** et al.  Estimation for high-dimensional multi-Layer generalized linear model–part II: the ML-GAMP estimator[J]. arXiv preprint arXiv:2007.09827, 2020.
-- **Qiuyun Zou**，Haochuan Zhang*, Chao-Kai Wen, Shi Jin, Rong Yu. Concise derivation for generalized approximate message passing using expectation propagation, **IEEE SPL**, 2018.
+- **Qiuyun Zou**，Haochuan Zhang*, Chao-Kai Wen, Shi Jin, Rong Yu. Concise derivation for generalized approximate message passing using expectation propagation, ***IEEE SPL***, 2018.
 
 # 🎖 荣誉与奖项
 - *2024.06* 指导本科生李雪获江西财经大学优秀本科毕业设计. 
