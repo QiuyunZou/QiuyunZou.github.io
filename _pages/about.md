@@ -29,9 +29,9 @@ redirect_from:
 
 
 # 📖 Educations
-- *2019.09 - 2023.06,  北京邮电大学  （导师：杨鸿文教授）
-- *2016.09 - 2019.06,  广东工业大学  （导师：张浩川教授）
-- *2012.09 - 2016.06,  汕头大学      （导师：范立生教授）
+- *2019.09 - 2023.06,  北京邮电大学  工学博士 
+- *2016.09 - 2019.06,  广东工业大学  工学硕士
+- *2012.09 - 2016.06,  汕头大学      工学学士
 
 
 # 🔥 News
@@ -51,7 +51,7 @@ redirect_from:
 - **Qiuyun Zou** et al. A concise tutorial on approximate message passing. arXiv preprint arXiv:2201.07487, 2022.
 - **Qiuyun Zou**, Haochuan Zhang, Hongwen Yang. Multi-layer bilinear generalized approximate message passing, ***IEEE TSP***, 2021.
 - **Qiuyun Zou**, Haochuang Zhang, Hongwen Yang. Expectation maximization aided hybrid generalized expectation consistent for sparse signal reconstruction, **IEEE SPL**, 2021.
-- **Qiuyun Zou**, Haochuan Zhang, Donghong Cai*, Hongwen Yang. A low-complexity joint user activity, channel and data estimation for grant-free massive MIMO systems, **IEEE SPL**, 2020.
+- **Qiuyun Zou**, Haochuan Zhang, Donghong Cai*, Hongwen Yang. A low-complexity joint user activity, channel and data estimation for grant-free massive MIMO systems, ***IEEE SPL***, 2020.
 - **Qiuyun Zou**, Haochuan Zhang, Donghong Cai, Hongwen Yang. Message passing based joint channel and user activity estimation for uplink grant-Free massive MIMO systems with low-precision ADCs, ***IEEE SPL***, 2020.
 - **Qiuyun Zou** et al. Estimation for high-Dimensional multi-layer generalized linear model–Part I: the exact MMSE estimator. arXiv preprint arXiv:2007.09826, 2020.
 - **Qiuyun Zou** et al.  Estimation for high-dimensional multi-Layer generalized linear model–part II: the ML-GAMP estimator[J]. arXiv preprint arXiv:2007.09827, 2020.
@@ -60,5 +60,5 @@ redirect_from:
 # 🎖 Honors and Awards
 - *2024.06* 指导本科生李雪获江西财经大学优秀本科毕业设计. 
 - *2024.08* 江西省省级高层次人才.
-
-
+- *2023.06* 北京邮电大学优秀毕业生.
+- *2021.11* 博士研究生国家奖学金.
