@@ -52,7 +52,7 @@ redirect_from:
 - Pei Yang, **Qiuyun Zou**, Hongwen Yang. Message passing based calculation of MI and MMSE matrix for massive MIMO systems with finite-alphabet inputs, ***IEEE CL***, 2021.
 - **Qiuyun Zou** et al. A concise tutorial on approximate message passing. arXiv preprint arXiv:2201.07487, 2022.
 - **Qiuyun Zou**, Haochuan Zhang, Hongwen Yang. Multi-layer bilinear generalized approximate message passing, ***IEEE TSP***, 2021.
-- **Qiuyun Zou**, Haochuang Zhang, Hongwen Yang. Expectation maximization aided hybrid generalized expectation consistent for sparse signal reconstruction, **IEEE SPL**, 2021.
+- **Qiuyun Zou**, Haochuang Zhang, Hongwen Yang. Expectation maximization aided hybrid generalized expectation consistent for sparse signal reconstruction, ***IEEE SPL***, 2021.
 - **Qiuyun Zou**, Haochuan Zhang, Donghong Cai*, Hongwen Yang. A low-complexity joint user activity, channel and data estimation for grant-free massive MIMO systems, ***IEEE SPL***, 2020.
 - **Qiuyun Zou**, Haochuan Zhang, Donghong Cai, Hongwen Yang. Message passing based joint channel and user activity estimation for uplink grant-Free massive MIMO systems with low-precision ADCs, ***IEEE SPL***, 2020.
 - **Qiuyun Zou** et al. Estimation for high-Dimensional multi-layer generalized linear model–Part I: the exact MMSE estimator. arXiv preprint arXiv:2007.09826, 2020.
