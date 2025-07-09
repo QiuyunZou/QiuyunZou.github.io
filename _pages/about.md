@@ -66,7 +66,7 @@ redirect_from:
 - **Qiuyun Zou**，Haochuan Zhang, Chao-Kai Wen, Shi Jin, Rong Yu. Concise derivation for generalized approximate message passing using expectation propagation, ***IEEE SPL***, 2018.
 
 # 🎖 Honors and Awards
-- *2024.06* &nbsp&nbsp 指导本科生李雪获江西财经大学优秀本科毕业设计. 
-- *2024.08* &nbsp&nbsp 江西省省级高层次人才.
-- *2023.06* &nbsp&nbsp 北京邮电大学优秀毕业生.
-- *2021.11* &nbsp&nbsp 博士研究生国家奖学金.
+- *2024.06* &nbsp &nbsp 指导本科生李雪获江西财经大学优秀本科毕业设计. 
+- *2024.08* &nbsp &nbsp 江西省省级高层次人才.
+- *2023.06* &nbsp &nbsp 北京邮电大学优秀毕业生.
+- *2021.11* &nbsp &nbsp 博士研究生国家奖学金.
